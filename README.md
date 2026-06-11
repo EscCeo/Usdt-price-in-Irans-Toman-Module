@@ -5,7 +5,7 @@
 [![Requirements](https://img.shields.io/badge/Requirements-View-green)](./requirements.txt)
 [![Python](https://img.shields.io/badge/Python-Source-blue?logo=python)](./main.py)
 
-# USD to IRR Price Scraper (TGJU)
+# USD to IRR Price Scraper 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
