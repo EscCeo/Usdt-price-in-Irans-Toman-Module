@@ -3,7 +3,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-xzaliu-26A5E4?logo=telegram)](https://t.me/xzaliu)
 [![X](https://img.shields.io/badge/X-xzaliu-black?logo=x)](https://x.com/xzaliu)
 [![Requirements](https://img.shields.io/badge/Requirements-View-green)](./requirements.txt)
-
+[![Python](https://img.shields.io/badge/Python-Source-blue?logo=python)](./main.py)
 
 # USD to IRR Price Scraper (TGJU)
 
