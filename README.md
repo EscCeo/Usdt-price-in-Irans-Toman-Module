@@ -67,7 +67,7 @@ python main.py
 
 ```
 dollar-price-scraper/
-├── dollar_price.py          # Main module
+├── main.py          # Main module
 ├── README.md                # This file
 └── requirements.txt         # (optional)
 ```
