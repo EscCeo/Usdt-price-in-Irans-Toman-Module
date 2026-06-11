@@ -2,9 +2,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-EscCeo-black?logo=github)](https://github.com/EscCeo)
 [![Telegram](https://img.shields.io/badge/Telegram-xzaliu-26A5E4?logo=telegram)](https://t.me/xzaliu)
 [![X](https://img.shields.io/badge/X-xzaliu-black?logo=x)](https://x.com/xzaliu)
+
 [![Requirements](https://img.shields.io/badge/Requirements-View-green)](./requirements.txt)
 [![Python](https://img.shields.io/badge/Python-Source-blue?logo=python)](./main.py)
 [![PyPI](https://img.shields.io/badge/PyPI-v1.0.0-blue)]([https://pypi.org/project/YOUR-PACKAGE-NAME/](https://pypi.org/project/usdt-price-in-iran-toman-module/))
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # USD to IRR Price Scraper 
 
@@ -46,8 +48,6 @@ This script scrapes the current dollar price from TGJU, one of Iran's most popul
 
 ---
 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## 📦 Install from PyPI
