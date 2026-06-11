@@ -56,7 +56,7 @@ else:
 ### As a Standalone Script
 
 ```bash
-python dollar_price.py
+python main.py
 ```
 
 *(The function will print the price when run directly)*
