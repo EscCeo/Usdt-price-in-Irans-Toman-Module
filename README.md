@@ -10,7 +10,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Language](https://img.shields.io/badge/Languages-English%20%7C%20Persian-red)
+[![English Docs](https://img.shields.io/badge/Docs-English-blue)](https://github.com/EscCeo/Usdt-price-in-Iran-s-Toman/blob/main/README.md#usd-to-irr-price-scraper)
+
+[![Persian Docs](https://img.shields.io/badge/Docs-فارسی-success)](https://github.com/EscCeo/Usdt-price-in-Iran-s-Toman/blob/main/README.md#-persian--%D9%81%D8%A7%D8%B1%D8%B3%DB%8C)
 
 A lightweight, robust Python module to fetch the live USD to Iranian Rial (IRR) exchange rate from TGJU.
 
