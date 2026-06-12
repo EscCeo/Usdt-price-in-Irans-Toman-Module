@@ -245,7 +245,7 @@ Possible improvements:
 
 ## 👨‍💻 Author
 
-Created and maintained by **Ali (@EscCeo)**
+Created and maintained by ** @EscCeo **
 
 Telegram: **@xzaliu**
 
